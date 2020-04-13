@@ -1,0 +1,7 @@
+1. https://icomoon.io/app/#/select
+2. Внизу  Add Icons From Library…
+3. Добавить Egipto+
+4. Вернуться на  https://icomoon.io/app/#/select (пункт 1)
+5. Шелкнуть по нескольким нужным иконкам.
+6. Внизу странице нажать кнопку "Generate Fonts"
+7. В архиве будет лежать 4 файла в каталоге fonts и style.css
