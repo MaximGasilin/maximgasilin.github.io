@@ -608,19 +608,19 @@ ul {
     height: 100%;
     text-decoration: none;
 }
-.ep_second_block[id="product-2-sm"] {
+.ep_second_block[alt="product-2-sm"] {
     background-image: url(../img/body/exclusive_product/product-2-sm.jpg);
 }
 
-.ep_second_block[id="product-3-sm"] {
+.ep_second_block[alt="product-3-sm"] {
     background-image: url(../img/body/exclusive_product/product-3-sm.jpg);
 }
 
-.ep_second_block[id="product-4-sm"] {
+.ep_second_block[alt="product-4-sm"] {
     background-image: url(../img/body/exclusive_product/product-4-sm.jpg);
 }
 
-.ep_second_block[id="product-5-sm"] {
+.ep_second_block[alt="product-5-sm"] {
     background-image: url(../img/body/exclusive_product/product-5-sm.jpg);
 }
 
