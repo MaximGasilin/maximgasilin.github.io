@@ -299,19 +299,19 @@ ul {
 }
 
 
-.tcl_block[alt="product_1"] {
+.tcl_img_product_1 {
     background-image: url(../img/body/featured_product/product-1.jpg);
 }
 
-.tcl_block[alt="product_2"] {
+.tcl_img_product_2 {
     background-image: url(../img/body/featured_product/product-2.jpg)
 }
 
-.tcl_block[alt="product_3"] {
+.tcl_img_product_3 {
     background-image: url(../img/body/featured_product/product-3.jpg)
 }
 
-.tcl_block[alt="product_4"] {
+.tcl_img_product_4 {
     background-image: url(../img/body/featured_product/product-4.jpg)
 }
 
@@ -488,27 +488,27 @@ ul {
     text-decoration: none;
 }
 
-.tp_products_block[alt="product_11"] {
+.img_product_11 {
     background-image: url(../img/body/trading_products/product-11.jpg);
 }
 
-.tp_products_block[alt="product_21"] {
+.img_product_21 {
     background-image: url(../img/body/trading_products/product-21.jpg);
 }
 
-.tp_products_block[alt="product_31"] {
+.img_product_31 {
     background-image: url(../img/body/trading_products/product-31.jpg);
 }
 
-.tp_products_block[alt="product_41"] {
+.img_product_41 {
     background-image: url(../img/body/trading_products/product-41.jpg);
 }
 
-.tp_products_block[alt="product_5"] {
+.img_product_5 {
     background-image: url(../img/body/trading_products/product-5.jpg);
 }
 
-.tp_products_block[alt="product_6"] {
+.img_product_6 {
     background-image: url(../img/body/trading_products/product-6.jpg);
 }
 
@@ -566,7 +566,7 @@ ul {
     display: inline-block;
 }
 
-.ep_main_block[alt="product-1-lg"] {
+.ep_img_product-1-lg {
     background-image: url(../img/body/exclusive_product/product-1-lg.jpg);
 }
 
@@ -602,19 +602,19 @@ ul {
     height: 100%;
     text-decoration: none;
 }
-.ep_second_block[alt="product-2-sm"] {
+.ep_img_product-2-sm {
     background-image: url(../img/body/exclusive_product/product-2-sm.jpg);
 }
 
-.ep_second_block[alt="product-3-sm"] {
+.ep_img_product-3-sm {
     background-image: url(../img/body/exclusive_product/product-3-sm.jpg);
 }
 
-.ep_second_block[alt="product-4-sm"] {
+.ep_img_product-4-sm {
     background-image: url(../img/body/exclusive_product/product-4-sm.jpg);
 }
 
-.ep_second_block[alt="product-5-sm"] {
+.ep_img_product-5-sm {
     background-image: url(../img/body/exclusive_product/product-5-sm.jpg);
 }
 
