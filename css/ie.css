@@ -1,11 +1,20 @@
-ul {
-    padding: 0;
+@media screen and (-ms-high-contrast: active),
+(-ms-high-contrast: none) {
+    ul {
+        padding: 0;
+    }
 }
 
-.ie_li{
-    display: inline-flex;
+@media screen and (-ms-high-contrast: active),
+(-ms-high-contrast: none) {
+    .ie_li {
+        display: inline-flex;
+    }
 }
 
-.button div {    
-   pointer-events: none;
+@media screen and (-ms-high-contrast: active),
+(-ms-high-contrast: none) {
+    .button div {
+        pointer-events: none;
+    }
 }
