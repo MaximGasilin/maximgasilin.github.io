@@ -1,0 +1,183 @@
+.header {
+    padding-top: 0px !important;
+}
+
+.nav {
+    padding-bottom: 29.57px;
+    background-color: white;
+}
+
+.category {
+    height: 70px;
+    background-color: #f4f4f4;
+}
+
+.category-list {
+    padding: 25px 0px 0px 360px;
+}
+
+.category-list li {
+    float: left;
+    list-style-type: none;
+    margin-right: 50px;
+}
+
+.category-link {
+    color: #6c6c6c;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.category-link-active {
+    color: #212121;
+    letter-spacing: 1.8px;
+    font-weight: 1000;
+}
+
+.category-link:hover {
+    opacity: 0.8;
+}
+
+.detail {
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 126px;
+}
+
+.images-prod {
+    margin-top: 72px;
+    padding-left: 98px;
+    width: 570px;
+    height: 655px;
+}
+
+.pagination-pic {
+    width: 240px;
+    height: 70px;
+    margin: 11px auto 0px;
+}
+
+.small-pic {
+    float: left;
+    margin-right: 10px;
+}
+
+.big-pic-link {
+    display: block;
+    width: 570px;
+    height: 570px;
+}
+
+.big-pic-link:hover {
+    opacity: 0.5;
+    outline: 1px solid #f44336;
+}
+
+.small-pic-link {
+    display: block;
+    width: 70px;
+    height: 70px;
+}
+
+.small-pic-link:hover {
+    opacity: 0.5;
+    outline: 1px solid #f44336;
+}
+
+.spec {
+    width: 510px;
+    height: 552px;
+    margin: 119px 132px 0px 56px;
+}
+
+.spec h3 {
+    color: #212121;
+    font-family: Montserrat;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.spec h4 {
+    color: #e53935;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 48.02px;
+    text-transform: uppercase;
+    letter-spacing: 1.8px;
+    text-align: center;
+    padding-bottom: 20px;
+    }
+
+.price {
+    color: #212121;
+    font-family: Gotham;
+    font-weight: 300;
+    line-height: 48.02px;
+    text-align: center;
+    padding-bottom: 31px;
+}
+
+.price h2, .price h1 {
+    display: inline-block;
+}
+
+.price h2 {
+    font-size: 48px;
+}
+
+.price h1 {
+    font-size: 72px;
+    text-transform: uppercase;
+}
+
+.button-product {
+    display: inline-block;
+    text-align: center;
+    width: 510px;
+    height: 71px;
+    box-shadow: 0 2px 5px 1px rgba(33, 33, 33, 0.35);
+    border-radius: 35px;
+    background-color: #f44336;
+    margin-bottom: 49px;
+}
+
+.button-product h1 {
+    display: inline-block;
+    padding-top: 27px;
+    padding-right: 28px;
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24.01px;
+    text-transform: uppercase;
+    letter-spacing: 4.4px;
+}
+
+.button-product:hover {
+    box-shadow:  0 3px 6px 2px rgba(33, 33, 33, 0.35);;
+}
+
+.button-product:active {
+    box-shadow: none;
+}
+
+.spec p {
+    margin: 0 5px;
+    padding-bottom: 20px;
+    color: #212121;
+    font-family: Gotham;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 24.01px;
+    letter-spacing: 0.9px;
+}
+
+.TrendProd-catalog {
+    padding-bottom: 120px;
+}

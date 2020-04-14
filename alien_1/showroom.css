@@ -1,0 +1,89 @@
+.tab-menu {
+    list-style-type: none;
+}
+
+.tab-menu li {
+    float: left;
+    justify-content: space-between;
+}
+
+.tab-menu li>a {
+    text-decoration: none;
+}
+
+.tab-link {
+    display: block;
+    padding-right: 30px;
+    padding-left: 10px;
+    height: 32px;
+    color: #6c6c6c;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 30px;
+}
+
+.tab-link-active {
+    display: block;
+    padding-right: 30px;
+    padding-left: 10px;
+    height: 32px;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #212121;
+    letter-spacing: 1.8px;
+    border-bottom: 4.5px solid #212121;
+}
+
+.tab-link-strock {
+    display: block;
+    padding-right: 30px;
+    padding-left: 10px;
+    height: 33.5px;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #6c6c6c;
+    letter-spacing: 1.8px;
+    border-bottom: 3px solid #6c6c6c;
+}
+
+.tab-link:hover {
+    font-size: 20px;
+    font-weight: 1000;
+}
+
+.catalog-prods {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(370px, 370px));
+    grid-template-rows: repeat(4, 370px);
+    grid-gap: 30px;
+    text-align: center;
+    margin-bottom: 71px;
+}
+
+.ctlg-prod-link {
+    display: block;
+    width: 370px;
+    height: 370px;
+}
+
+.ctlg-prod-link:hover {
+    outline: 3px solid #6c6c6c;
+    opacity: 0.5;
+}
+
+.sync {
+    display: inline-block;
+    width: 42px;
+    margin-left: 48.5%;
+    margin-bottom: 140px;
+}
+
+.sync:hover {
+    opacity: 0.5;
+}

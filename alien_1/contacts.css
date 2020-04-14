@@ -1,0 +1,69 @@
+.locations {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 71px;
+    padding-bottom: 122px;
+}
+
+.loc {
+    width: 370px;
+    height: 370px;
+    border: 1px solid #9c9c9c;
+    background-color: #ffffff;
+}
+
+.loc:hover {
+    outline: 3px solid #6c6c6c;
+}
+
+.loc-icon img {
+    width: 38px;
+    height: 48px;
+    margin: 48px 166px 34px;
+}
+
+.loc-name h3 {
+    text-align: center;
+    color: #212121;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 23px;
+}
+
+.loc-contacts {
+    width: 271px;
+    height: 138px;
+    font-size: 14px;
+    padding-left: 13%;
+}
+
+.phone, .email {
+    margin-bottom: 10px;
+}
+
+.phone h6, 
+.email h6, 
+.address h6 {
+    text-align: center;
+    color: #6c6c6c;
+    font-weight: 700;
+    line-height: 20px;
+    font-size: 14px;
+}
+
+.phone p, .email p {
+    text-align: center;
+    color: #212121;
+    font-family: "Montserrat - Bold";
+    font-weight: 700;
+}
+
+.address p {
+    text-align: center;
+    font-family: "Montserrat - Light";
+    font-weight: 300;
+    color: #6c6c6c;
+}
+
+
